@@ -1,0 +1,15 @@
+Machine Learning has basically two types of learning.
+
+
+Supervised learning:
+
+LINEAR ALGORITHMS
+1.Linear Regression
+2.Logistic Regression
+
+
+Unsupervised learning:
+
+NON LINEAR ALGORITHMS
+1.K-nearest neighbour
+2.Neural networks
